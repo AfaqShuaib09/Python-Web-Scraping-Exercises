@@ -34,5 +34,5 @@ def saveKeywordData(fileName,data):
         if file:
             file.close()
 
-data = getKeywords("https://www.youtube.com/watch?v=DZC7zzgtPwM")
-saveKeywordData('keywords.txt',data)
+#data = getKeywords("https://www.youtube.com/watch?v=DZC7zzgtPwM")
+#saveKeywordData('keywords.txt',data)
