@@ -4,7 +4,7 @@
 - 3. Quotes Scrape (By Scrapping Hub)
 - 4. Weather Forecast Details Scrapping (From forecast.gov)
 - 5. IDMB movies (Top 250 and their details)
-- 6. Extract Youtube Videos Tags uisng python scrapping (from youtube.com)
+
 ----
 
 # Modules Required to Install
